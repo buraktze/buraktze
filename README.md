@@ -4,9 +4,9 @@ Bursa Teknik Üniversitesi Makine Mühendisliği bölümünden **onur derecesiyl
 
 ### 🔭 Neler Yapıyorum / Neler Yaptım?
 
-- ✈️ **Havacılık & Kompozit:** Baykar Teknoloji'de İHA yapısal kompozit parçalarının imalat süreçlerinde ve üretim ekipmanlarının iyileştirilmesinde görev aldım.
+- ✈️ **Havacılık & Kompozit:** Baykar Teknoloji'de stajım sürecinde İHA yapısal kompozit parçalarının imalat süreçlerinde ve üretim ekipmanlarının iyileştirilmesinde görev aldım.
 - 🛰️ **Uzay Teknolojileri:** Bitirme projesi olarak CUBESAT Uydu Yapısal Tasarımı ve Bilgisayar Destekli Yapısal-Isıl Analizlerini (Modal, Rastgele Titreşim, Şok, Termal) gerçekleştirdim.
-- 🌍 **Ar-Ge & Tasarım:** TÜBİTAK MAM'da yenilikçi çığ bariyeri projelerinin bilgisayar destekli tasarım ve ön analiz aşamalarında çalıştım.
+- 🌍 **Ar-Ge & Tasarım:** TÜBİTAK MAM staj sürecimde yenilikçi çığ bariyeri projelerinin bilgisayar destekli tasarım ve yapısal ön analiz aşamalarında çalıştım.
 - 💻 **Hesaplamalı Aerodinamik (CFD):** Açık kaynaklı web teknolojileri ile CFD verilerinin gerçek zamanlı görselleştirilmesi üzerine akademik çalışmam bulunuyor *(11. UHUK Konferans Bildirisi)*.
 
 ### 🏆 Başarılar & Dereceler
@@ -18,9 +18,8 @@ Bursa Teknik Üniversitesi Makine Mühendisliği bölümünden **onur derecesiyl
 
 ### 🛠️ Teknoloji ve Yetenekler
 
-* **Tasarım & Analiz:** Bilgisayar Destekli Tasarım (CAD), Sonlu Elemanlar Analizi (FEA), Yapısal Dinamik, Titreşim ve Termal Analizler
-* **Üretim:** İHA Yapısal Kompozit Üretim Süreçleri, Sac Metal Şekillendirme
-* **İlgi Alanları:** Açık Kaynak Web Teknolojileri, CFD Veri Görselleştirme, Aerodinamik
+* **Tasarım & Analiz:** Bilgisayar Destekli Tasarım (Solidworks, Catia V5), Sonlu Elemanlar Analizi (Static Structural, Modal, Random Vibration, Shock Response Spectrum, LS-DYNA, Thermal)
+* **Üretim:** İHA Yapısal Kompozit Üretim ve Tasarım Süreçleri
 
 ### 📫 İletişim
 
