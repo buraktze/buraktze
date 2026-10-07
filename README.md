@@ -24,4 +24,4 @@ Bursa Teknik Üniversitesi Makine Mühendisliği bölümünden **onur derecesiyl
 ### 📫 İletişim
 
 - 📧 **E-posta:** buraktez25@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/burak-tez](https://linkedin.com/in/burak-tez](https://www.linkedin.com/in/burak-tez-6a584926a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRhDW89PMTR6G19YBTC1zBA%3D%3D)
+- 💼 **LinkedIn:** [linkedin.com/in/burak-tez](https://www.linkedin.com/in/burak-tez-6a584926a/)
