@@ -1,4 +1,3 @@
-## Hi there 👋
 # Merhaba, Ben Burak Tez! 👋
 ## 🚀 Makine Mühendisi
 Bursa Teknik Üniversitesi Makine Mühendisliği bölümünden **onur derecesiyle** mezun oldum. Hava araçlarının konsept tasarımından kompozit üretimine, sonlu elemanlar analizinden (FEA) yapısal dinamiğe kadar geniş bir yelpazede çalışmalar yürütüyorum. Makine mühendisliği vizyonumu uzay projelerine (CubeSat) ve açık kaynaklı hesaplamalı mühendislik çözümlerine genişletiyorum.
